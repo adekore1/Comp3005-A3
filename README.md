@@ -1,7 +1,3 @@
-Adekore Olurotimi Balogun
-Student ID: 101316017
-
-
 # Student Database Management System
 
 ## Setup Instructions
