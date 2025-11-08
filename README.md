@@ -1,11 +1,10 @@
 # Student Database Management System
 
-## Setup Instructions
 
-### Prerequisites
-- Python 3.7+
-- PostgreSQL
-- pip package manager
+
+VIDEO LINK: https://youtu.be/uZMvWr9_9S8
+
+
 
 ### 1. Database Setup
 1. Start PostgreSQL service
