@@ -10,7 +10,9 @@ VIDEO LINK: https://youtu.be/uZMvWr9_9S8
 1. Start PostgreSQL service
 2. Create a database named `studentDB`
 3. Run the setup script to create teh table with initial values:
-        
+    
+    setup script:
+
     CREATE TABLE students(
         student_id SERIAL PRIMARY KEY,
         first_name VARCHAR(255) NOT NULL,
